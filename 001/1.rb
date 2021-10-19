@@ -1,5 +1,5 @@
 total = 0
-(1..1000).each {
+(1..999).each {
   |n|
   if n % 3 == 0
     total += n
